@@ -1,5 +1,8 @@
 # 🍝 Food Buddy – Amazon Bedrock AgentCore Memory Demo (us-east-1)
 
+<img width="1536" height="1024" alt="ChatGPT Image Sep 13, 2025, 03_33_46 PM" src="https://github.com/user-attachments/assets/09bc33b7-90db-4219-b722-a36f24ce9b72" />
+
+
 This demo runs in **us-east-1** region by default.  
 It shows how to build a context-aware agent using **Amazon Bedrock AgentCore Memory**.
 
